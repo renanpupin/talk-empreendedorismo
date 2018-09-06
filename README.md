@@ -4,6 +4,6 @@ Talk sobre minha experiência empreendedora com os alunos da disciplina de empre
 
 # Slides
 
-[Slides](https://github.com/renanpupin/talk-empreendedorismo/talk.pdf)
+[Slides](https://github.com/renanpupin/talk-empreendedorismo/blob/master/talk.pdf)
 
 ![Empreendedorismo](photo.jpg?raw=true)
